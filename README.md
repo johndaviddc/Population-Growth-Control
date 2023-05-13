@@ -17,3 +17,4 @@ This program calculates the number of years required for a population to reach a
 * The program takes two inputs: the starting population and the ending population.
 * It then calculates the number of years required for the population to reach the ending population size, assuming that the population grows by 1/3 of its size every year, with an additional loss of 1/4 of the population due to deaths.
 * Finally, the program outputs the number of years required to reach the ending population size.
+
